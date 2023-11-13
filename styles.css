@@ -1,0 +1,94 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+*{
+    font-size: 1.1em;
+}
+
+.small{
+    font-size: 0.6em;
+}
+.small2{
+    font-size: 0.5em;
+}
+.upper-navbar{
+    height: 3em;
+}
+.navbar-brand-upper{
+    width: 7rem;
+}
+
+
+
+.navbar-brand{
+    width:20rem;
+    height: 3rem;
+}
+
+.nav-item{
+    
+    text-align: center;
+}
+.nav-item:hover{
+background-color: rgb(96, 93, 93);
+color: #fff;
+}
+
+.nav-link{
+    color: #000;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.cardColor1{
+    background-color: rgb(87, 20, 154);
+    color: #fff;
+}
+
+
+.cardColor2{
+    background-color: rgb(206, 138, 11);
+}
+
+.color2{
+    background-color: rgb(87, 20, 154);
+    color: #fff;
+}
+
+.card-title1{
+  color: rgb(87, 20, 154);  
+}
+.imgx{
+    width: 500px;
+    height: 500px;
+    
+    background-image: url(https://culturarecreacionydeporte.gov.co/sites/default/files/inline-images/imperdibles-inicio.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.novedades{
+    height: 600px;
+    max-height: 900px;
+}
+
+.about-us{
+    font-size: .7rem;
+}
+
+
+
+@media (max-width: 575.98px) { }
+
+@media (max-width: 767.98px) {}
+
+@media (max-width: 991.98px) {  }
+
+@media (max-width: 1199.98px) {  }
+
+@media (max-width: 1399.98px) {  }
