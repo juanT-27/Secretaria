@@ -51,7 +51,7 @@ color: #fff;
 
 
 .cardColor2{
-    background-color: rgb(206, 138, 11);
+    background-color: rgb(249, 188, 73);
 }
 
 .color2{
@@ -60,7 +60,8 @@ color: #fff;
 }
 
 .card-title1{
-  color: rgb(87, 20, 154);  
+  color: rgb(87, 20, 154); 
+  font-weight: bolder 
 }
 .imgx{
     width: 500px;
@@ -81,6 +82,9 @@ color: #fff;
     font-size: .7rem;
 }
 
+.accordion-item{
+    font-size: 0.6rem;
+}
 
 
 @media (max-width: 575.98px) { }
